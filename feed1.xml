@@ -1,0 +1,23 @@
+<rss xmlns:media="https://www.youtube.com/watch?v=7IuHYeXBxJg&amp;t=2446s&amp;ab_channel=Pi_anistMathsCA" version="2.0">
+	<channel>
+		<title> www </title>
+		<link>https://www.facebook.com/</link>
+		
+		<item>
+			<title> Youtube </title>
+			<link>https://www.youtube.com/</link>
+		</item>
+		
+		<item>
+			<title> Google </title>
+			<link>https://www.google.com/</link>
+		</item>
+		
+		<item>
+			<title> Facebook </title>
+			<link>https://www.facebook.com/</link>
+		</item>
+		
+		
+	</channel>
+</rss>
